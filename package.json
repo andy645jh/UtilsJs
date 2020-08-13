@@ -1,5 +1,5 @@
 {
-  "name": "utilsjs",
+  "name": "@andy645jh/utils",
   "version": "1.0.0",
   "description": "Utility set functions",
   "main": "index.js",
@@ -8,11 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "(https://github.com/andy645jh/utilsJs.git"
+    "url": "(https://github.com/andy645jh/utilsJs.git)"
   },
   "keywords": [
     "utils",
-    "format"    
+    "format"
   ],
   "author": "Andy Jhonson <andy645jh@gmail.com>",
   "license": "ISC"
