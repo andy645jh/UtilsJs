@@ -1,6 +1,6 @@
 {
   "name": "@andy645jh/utils",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Utility set functions",
   "main": "index.js",
   "type": "module",
